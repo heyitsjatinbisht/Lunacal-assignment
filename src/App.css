@@ -1,0 +1,10 @@
+.add-img-btn {
+  box-shadow: 0px 0px 12px rgba(255, 255, 255, 0.5),
+    6px 6px 12px rgba(0, 0, 0, 0.8);
+}
+
+.arrow-btn {
+  box-shadow: 4px 5px 30px 5px #101213;
+  box-shadow: -5px -3px 30px -10px #96bee7;
+  background: linear-gradient(139.14deg, #303439 12.4%, #161718 94.96%);
+}

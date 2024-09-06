@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background: linear-gradient(177.32deg, #888989 5.6%, #4a4e54 93.28%);
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.tab-container {
+  box-shadow: 5.67px 5.67px 3.78px 0px #00000066;
+}
+.galary-container {
+  box-shadow: 5.67px 5.67px 3.78px 0px #00000066;
+}
