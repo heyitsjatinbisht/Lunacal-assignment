@@ -1,8 +1,51 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Live Demo
 
-Currently, two official plugins are available:
+You can view the live version of the project at the following link:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**[Live Link](https://lunacal-assignment-lime.vercel.app/)**
+
+## 🌟 Features
+
+- **Responsive Design**: The web app is fully responsive and adjusts gracefully across all screen sizes.
+- **Interactive UI**: Includes tabs, buttons, and grid layouts for an enhanced user experience.
+- **CSS Grid & Flexbox**: Leverages modern CSS layout techniques for structuring content.
+- **Tailwind CSS**: Highly customized styles using the utility-first CSS framework.
+
+## 🛠️ Technologies Used
+
+- **React**: For building the UI components.
+- **Tailwind CSS**: For styling the application with utility classes.
+- **CSS Grid & Flexbox**: For responsive and flexible layouts.
+- **Vercel**: For deployment and hosting.
+
+## ⚙️ Installation
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/lunacal-assignment.git
+
+   ```
+
+2. Navigate to the project directory:
+
+```bash
+   cd lunacal-assignment
+
+```
+
+3. Install the dependencies:
+
+```bash
+  npm install
+```
+
+4.  Start the development server:
+
+```
+npm run dev
+```
